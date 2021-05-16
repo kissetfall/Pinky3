@@ -1,3 +1,5 @@
 (fp_lib_table
   (lib (name lib)(type KiCad)(uri ${KIPRJMOD}/lib.pretty)(options "")(descr ""))
+  (lib (name SofleKeyboard-footprint)(type KiCad)(uri /home/j/keyboards/sofle/footprints/SofleKeyboard-footprint.pretty)(options "")(descr ""))
+  (lib (name pinky3)(type KiCad)(uri /home/j/Pinky3/pcb/lib.pretty)(options "")(descr ""))
 )
