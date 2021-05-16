@@ -10,7 +10,7 @@ No top/bottom plates are currently available for this board, but it works nice w
 ![bottom](bottom.jpg)
 
 ## Layout
-![layout](layout.jpg)
+![layout](layout.png)
 
 ## Firmware
 
