@@ -4,7 +4,7 @@ Pinky3 fork with rotary encoders and kailh hotswaps for thumb row.
 This is a WIP, but it's already works great for daily use.
 
 ![showcase](pinky3.jpg)
-![showcase](pinky3 2.jpg)
+![showcase](pinky3_2.jpg)
 
 No top/bottom plates are currently available for this board, but it works nice without them.
 ![bottom](bottom.jpg)
